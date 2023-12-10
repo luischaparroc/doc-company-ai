@@ -1,0 +1,15 @@
+Technology Department Documentation
+
+Mission of the Department:
+The mission of the Technology Department at PayApp is to develop and maintain high-quality systems for our mobile application, providing users with a seamless and secure payment experience. Our department is focused on creating innovative solutions that simplify the payment process for all people, making transactions easy and convenient.
+
+Developed Applications:
+The Technology Department is responsible for developing the in-house mobile application available on both IOS and Android operating systems. The application's architecture is designed to ensure a user-friendly interface and robust functionality. The technology stack utilized includes programming languages such as Java and Swift, along with frameworks such as React Native for cross-platform compatibility. Our team also incorporates cloud-based data storage and employs secure encryption protocols to protect sensitive user information.
+
+Leader of the Department:
+Sam Brunswick, as the Head of Technology, oversees the operations and strategic direction of the Technology Department at PayApp. Sam brings extensive experience in software development and expertise in mobile application architecture. He can be reached at sam.brunswick@payapp.com for any department-related inquiries, suggestions, or concerns.
+
+Number of Employees:
+The Technology Department at PayApp currently consists of 11 dedicated professionals. Our team comprises skilled developers, architects, and engineers who work collaboratively to ensure the smooth functioning of our mobile application. As the company grows, we are actively striving to expand our workforce, with plans to hire an additional 50 talented individuals to join our team across the United States, Mexico, and Colombia.
+
+In conclusion, the Technology Department at PayApp plays a crucial role in the company's mission to provide easy and efficient payment solutions. With our in-house mobile application designed for both IOS and Android, our talented team, led by Sam Brunswick, is committed to developing and maintaining cutting-edge systems that prioritize user experience and security. As we continue to grow and innovate, our focus remains on delivering exceptional payment services to users in the United States, Mexico, and Colombia.

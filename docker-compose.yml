@@ -1,0 +1,14 @@
+version: '3'
+
+
+services:
+
+  app:
+    build: .
+    command: python main.py
+    ports:
+      - "7860:7860"
+    volumes:
+      - .:/doc-company-ai
+    env_file:
+      - .env
